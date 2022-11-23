@@ -1,0 +1,8 @@
+RENCANA CONTENT SEKTI
+
+- Javascript
+  * ES6
+  * Framwork Javascript
+- PHP
+- Interview
+- Vlog
